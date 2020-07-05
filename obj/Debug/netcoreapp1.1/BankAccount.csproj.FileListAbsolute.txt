@@ -1,0 +1,12 @@
+D:\אפרת\projects\BankAccount\bin\Debug\netcoreapp1.1\BankAccount.deps.json
+D:\אפרת\projects\BankAccount\bin\Debug\netcoreapp1.1\BankAccount.runtimeconfig.json
+D:\אפרת\projects\BankAccount\bin\Debug\netcoreapp1.1\BankAccount.runtimeconfig.dev.json
+D:\אפרת\projects\BankAccount\bin\Debug\netcoreapp1.1\BankAccount.dll
+D:\אפרת\projects\BankAccount\bin\Debug\netcoreapp1.1\BankAccount.pdb
+D:\אפרת\projects\BankAccount\obj\Debug\netcoreapp1.1\BankAccount.csprojAssemblyReference.cache
+D:\אפרת\projects\BankAccount\obj\Debug\netcoreapp1.1\BankAccount.AssemblyInfoInputs.cache
+D:\אפרת\projects\BankAccount\obj\Debug\netcoreapp1.1\BankAccount.AssemblyInfo.cs
+D:\אפרת\projects\BankAccount\obj\Debug\netcoreapp1.1\BankAccount.csproj.CoreCompileInputs.cache
+D:\אפרת\projects\BankAccount\obj\Debug\netcoreapp1.1\BankAccount.dll
+D:\אפרת\projects\BankAccount\obj\Debug\netcoreapp1.1\BankAccount.pdb
+D:\אפרת\projects\BankAccount\obj\Debug\netcoreapp1.1\BankAccount.genruntimeconfig.cache
